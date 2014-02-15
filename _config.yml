@@ -1,3 +1,26 @@
-name: Your New Jekyll Site
-markdown: redcarpet
-pygments: true
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            "dev/bin"
+tagline:          'Randomness ahead'
+description:      'My name is Tim Jagodzinski. Among other things I am a developer, husband, father, sci-fi nerd. Currently my employer is <a href="http://www.mtc-berlin.com">Moving Targets Consulting Gmbh</a>.'
+
+#url:              http://neonsamurai.github.io
+url:             http://localhost:4000
+
+author:
+  name:           'Tim Jagodzinski'
+  url:            https://www.google.com/+TimJagodzinski
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/neonsamurai/neonsamurai.github.io

@@ -1,79 +1,47 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Delta Green]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Delta Green</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 24 Jun 2026 19:46:49 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 24 Jun 2026 19:46:48 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Jagoda, Ekatherina alias "Farsight" (Kathi)]]></title><description><![CDATA[<img alt="Agent_Farsight.png" src="media/agent_farsight.png" target="_self">KLASSIFIKATION: GEHEIM//NFDSUBJEKT: JAGODA, Ekatherina alias "FARSIGHT"
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Delta Green]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>Delta Green</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 24 Jun 2026 22:29:23 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 24 Jun 2026 22:29:23 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Agentenakte]]></title><description><![CDATA[Unten stehende Agenten sind derzeit in Zelle F aktiv:
+<a data-href="Ballentine, George T. alias &quot;Force&quot; (Nils)" href="agenten/ballentine,-george-t.-alias-&quot;force&quot;-(nils).html" class="internal-link" target="_self" rel="noopener nofollow">Ballentine, George T. alias "Force" (Nils)</a>
+<br><a data-href="Drops, Steve alias &quot;Fire&quot; (Mathias)" href="agenten/drops,-steve-alias-&quot;fire&quot;-(mathias).html" class="internal-link" target="_self" rel="noopener nofollow">Drops, Steve alias "Fire" (Mathias)</a>
+<br><a data-href="Jagoda, Ekatherina alias &quot;Farsight&quot; (Kathi)" href="agenten/jagoda,-ekatherina-alias-&quot;farsight&quot;-(kathi).html" class="internal-link" target="_self" rel="noopener nofollow">Jagoda, Ekatherina alias "Farsight" (Kathi)</a>
+<br><a data-href="Smith, Bimmel alias &quot;Foundry&quot; (Jonas)" href="agenten/smith,-bimmel-alias-&quot;foundry&quot;-(jonas).html" class="internal-link" target="_self" rel="noopener nofollow">Smith, Bimmel alias "Foundry" (Jonas)</a>
+<br><a data-href="Whatson, Priscilla alias &quot;Figma&quot; (Maja)" href="agenten/whatson,-priscilla-alias-&quot;figma&quot;-(maja).html" class="internal-link" target="_self" rel="noopener nofollow">Whatson, Priscilla alias "Figma" (Maja)</a>
+]]></description><link>agentenakte.html</link><guid isPermaLink="false">Agentenakte.md</guid><pubDate>Wed, 24 Jun 2026 19:45:22 GMT</pubDate></item><item><title><![CDATA[Smith, Bimmel alias "Foundry" (Jonas)]]></title><description><![CDATA[<img alt="Agent_Foundry.png" src="media/agent_foundry.png" target="_self">KLASSIFIKATION: GEHEIM//NFDSUBJEKT: SMITH, Bimmel alias "FOUNDRY"
+GEB: 13.4.1983
+HAUPT OPERATIONSRAUM: New York City (NY)
+STATUS: AKTIV, DOD
+MUTTER: Jill Smith
+VATER: Jack SmithNOTIZEN:Körperlich fit, stark ausgeprägte analytische Fähigkeiten. Ausbildung zum Kommandosoldat SFOD-D, Experte in Nahkampf, Schusswaffen, schwere Waffen, Überwachung, Sprengmitteleinsatz. Einzelkämpferausbildung, Guerillataktiken.Verminderte Fähigkeit zu Empathie. Neigt zu Helfersyndrom, auch wenn dies von BOMMEL: Belgischer Schäferhund. Veteran aus der letzten Entsendung nach Afghanistan.
+SMITH, Jill und Jack: Eltern<br><img alt="Tome_Skydevils.png" src="media/tome_skydevils.png" target="_self">]]></description><link>agenten/smith,-bimmel-alias-"foundry"-(jonas).html</link><guid isPermaLink="false">Agenten/Smith, Bimmel alias "Foundry" (Jonas).md</guid><pubDate>Wed, 24 Jun 2026 22:27:54 GMT</pubDate><enclosure url="media/agent_foundry.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="media/agent_foundry.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Whatson, Priscilla alias "Figma" (Maja)]]></title><description><![CDATA[<img alt="Agent_Figma.png" src="media/agent_figma.png" target="_self">KLASSIFIKATION: GEHEIM//NFDSUBJEKT: WHATSON, Priscilla alias "FIGMA"
+GEB: 13.4.1983
+HAUPT OPERATIONSRAUM: New York City, NY
+STATUS: AKTIV, NY General Hospital (NYC)
+MUTTER: Unbekannt
+VATER: Unbekannt
+(ANDERE ANGEHÖRIGE): Carl Whatson (Ex-Ehemann)NOTIZEN:Fotografisches Gedächtnis, außerordentlich willensstark. Doktor der Psychologie, Master of Science der Biologie, Facharzt der allg. Medizin. Ausgeprägte MenschenkenntnisStark ausgeprägte Eigenständigkeit und Bedürfnis nach Unabhängigkeit, zielstrebig und karrierebewusst.
+Traumata durch frühen Tod der Eltern und später Entführungsfall sind unzureichend aufgearbeitet. Leidet an Schlafstörungen. Ist Entzug von Handlungsfähigkeit gegenüber außerordentlich resistent.WHATSON, Carl: Ehemann (geschieden)
+KURT, Eva: befreundete Ärztin im NY General Hospital
+PETERSON, Pam: ehem. Patientin]]></description><link>agenten/whatson,-priscilla-alias-"figma"-(maja).html</link><guid isPermaLink="false">Agenten/Whatson, Priscilla alias "Figma" (Maja).md</guid><pubDate>Wed, 24 Jun 2026 22:24:27 GMT</pubDate><enclosure url="media/agent_figma.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="media/agent_figma.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Drops, Steve alias "Fire" (Mathias)]]></title><description><![CDATA[<img alt="Agent_Fire.png" src="media/agent_fire.png" target="_self">KLASSIFIKATION: GEHEIM//NFDSUBJEKT: DROPS, Steve alias "FIRE"
+GEB: 13.4.1983
+HAUPT OPERATIONSRAUM: New York City, NY
+STATUS: AKTIV, FBI
+MUTTER: Marie Drops
+VATER: Unbekannt
+SCHWESTER: Miranda Drops NOTIZEN:Körperlich eingeschränkt durch Skoliose und Lebensmittelunverträglichkeiten (Laktose). Außerordentlich intelligent. Stark ausgeprägte Stressresistent. Doktor der Computerwissenschaften (Schwerpunkt Microcontroller), Master of Arts der Rechtswissenschaften, Master of Arts der Betriebswirtschaftslehre. Experte in Überwachungstechnik. Spricht Mandarin Level B2Ausgeprägtes Bedürfnis, Menschen in Not zu Helfen. Starker Familiensinn. ADHSSMIRGLE: Schnappschildkröte, zu der der Agent eine enge emotionale Bindung aufgebaut hat. Patentier im Tierheim Queens (NYC)
+DROPS, Miranda: Schwester
+DROPS, Marie: Mutter]]></description><link>agenten/drops,-steve-alias-"fire"-(mathias).html</link><guid isPermaLink="false">Agenten/Drops, Steve alias "Fire" (Mathias).md</guid><pubDate>Wed, 24 Jun 2026 22:15:19 GMT</pubDate><enclosure url="media/agent_fire.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="media/agent_fire.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Ballentine, George T. alias "Force" (Nils)]]></title><description><![CDATA[<img alt="Agent_Force.png" src="media/agent_force.png" target="_self">KLASSIFIKATION: GEHEIM//NFDSUBJEKT: BALLENTINE, George T. alias "FORCE"
+GEB: 13.4.1983
+HAUPT OPERATIONSRAUM: Austin, TX
+STATUS: AKTIV, Texas Highway Patrol
+MUTTER: Unbekannt
+VATER: Unbekannt
+(ANDERE ANGEHÖRIGE): UnbekanntNOTIZEN:Möglicherweise PTBS, neigt zu Wutanfällen.]]></description><link>agenten/ballentine,-george-t.-alias-"force"-(nils).html</link><guid isPermaLink="false">Agenten/Ballentine, George T. alias "Force" (Nils).md</guid><pubDate>Wed, 24 Jun 2026 22:11:14 GMT</pubDate><enclosure url="media/agent_force.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="media/agent_force.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Jagoda, Ekatherina alias "Farsight" (Kathi)]]></title><description><![CDATA[<img alt="Agent_Farsight.png" src="media/agent_farsight.png" target="_self">KLASSIFIKATION: GEHEIM//NFDSUBJEKT: JAGODA, Ekatherina alias "FARSIGHT"
 GEB: 13.4.1983
 HAUPT OPERATIONSRAUM: New York City, NY
 STATUS: AKTIV, FBI
 MUTTER: Unbekannt
 VATER: Unbekannt
 BRUDER: Jakob JagodaNOTIZEN:Medizinstudium, sehr stark ausgeprägte analytische Fähigkeiten. Doktor der Psychiatrie, Master of Science der Biologie, Facharzt der allg. Medizin.Stark ausgeprägter Lern- und Forschungsdrang, HelferkomplexJAGODA, Jakob: Bruder
-MILLER, George: Doktorvater]]></description><link>agenten/jagoda,-ekatherina-alias-"farsight"-(kathi).html</link><guid isPermaLink="false">Agenten/Jagoda, Ekatherina alias "Farsight" (Kathi).md</guid><pubDate>Wed, 24 Jun 2026 19:46:03 GMT</pubDate><enclosure url="media/agent_farsight.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="media/agent_farsight.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Agentenakte]]></title><description><![CDATA[Unten stehende Agenten sind derzeit in Zelle F aktiv:
-<a data-href="Ballentine, George T. alias &quot;Force&quot; (Nils)" href="agenten/ballentine,-george-t.-alias-&quot;force&quot;-(nils).html" class="internal-link" target="_self" rel="noopener nofollow">Ballentine, George T. alias "Force" (Nils)</a>
-<br><a data-href="Drops, Steve alias &quot;Fire&quot; (Mathias)" href="agenten/drops,-steve-alias-&quot;fire&quot;-(mathias).html" class="internal-link" target="_self" rel="noopener nofollow">Drops, Steve alias "Fire" (Mathias)</a>
-<br><a data-href="Jagoda, Ekatherina alias &quot;Farsight&quot; (Kathi)" href="agenten/jagoda,-ekatherina-alias-&quot;farsight&quot;-(kathi).html" class="internal-link" target="_self" rel="noopener nofollow">Jagoda, Ekatherina alias "Farsight" (Kathi)</a>
-<br><a data-href="Smith, Bimmel alias &quot;Foundry&quot; (Jonas)" href="agenten/smith,-bimmel-alias-&quot;foundry&quot;-(jonas).html" class="internal-link" target="_self" rel="noopener nofollow">Smith, Bimmel alias "Foundry" (Jonas)</a>
-<br><a data-href="Whatson, Priscilla alias &quot;Figma&quot; (Maja)" href="agenten/whatson,-priscilla-alias-&quot;figma&quot;-(maja).html" class="internal-link" target="_self" rel="noopener nofollow">Whatson, Priscilla alias "Figma" (Maja)</a>
-]]></description><link>agentenakte.html</link><guid isPermaLink="false">Agentenakte.md</guid><pubDate>Wed, 24 Jun 2026 19:45:22 GMT</pubDate></item><item><title><![CDATA[Whatson, Priscilla alias "Figma" (Maja)]]></title><description><![CDATA[<img alt="Agent_Figma.png" src="media/agent_figma.png" target="_self">KLASSIFIKATION: GEHEIM//NFDSUBJEKT: WHATSON, Priscilla alias "FIGMA"
-GEB: 13.4.1983
-HAUPT OPERATIONSRAUM: New York City, NY
-STATUS: AKTIV, NY General Hospital (NYC)
-MUTTER: Unbekannt
-VATER: Unbekannt
-(ANDERE ANGEHÖRIGE): Carl Whatson (Ex-Ehemann)NOTIZEN:Fotografisches Gedächtnis, außerordentlich willensstark. Doktor der Psychologie, Master of Science der Biologie, Facharzt der allg. Medizin. Ausgeprägte MenschenkenntnisStark ausgeprägte Eigenständigkeit und Bedürfnis nach Unabhängigkeit, zielstrebig und karrierebewusst.
-Traumata durch frühen Tod der Eltern und später Entführungsfall sind unzureichend aufgearbeitet. Leidet an Schlafstörungen. Ist Entzug von Handlungsfähigkeit gegenüber außerordentlich resistent.WHATSON, Carl: Ehemann (geschieden)
-KURT, Eva: befreundete Ärztin im NY General Hospital
-PETERSON, Pam: ehem. Patientin]]></description><link>agenten/whatson,-priscilla-alias-"figma"-(maja).html</link><guid isPermaLink="false">Agenten/Whatson, Priscilla alias "Figma" (Maja).md</guid><pubDate>Tue, 23 Jun 2026 22:40:47 GMT</pubDate><enclosure url="media/agent_figma.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="media/agent_figma.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Smith, Bimmel alias "Foundry" (Jonas)]]></title><description><![CDATA[<img alt="Agent_Foundry.png" src="media/agent_foundry.png" target="_self">KLASSIFIKATION: GEHEIM//NFDSUBJEKT: SMITH, Bimmel alias "FOUNDRY"
-GEB: 13.4.1983
-HAUPT OPERATIONSRAUM: New York City (NY)
-STATUS: AKTIV, DOD
-MUTTER: Jill Smith
-VATER: Jack SmithNOTIZEN:Körperlich fit, stark ausgeprägte analytische Fähigkeiten. Ausbildung zum Kommandosoldat SFOD-D, Experte in Nahkampf, Schusswaffen, schwere Waffen, Überwachung, Sprengmitteleinsatz. Einzelkämpferausbildung, Guerillataktiken.Verminderte Fähigkeit zu Empathie. Neigt zu Helfersyndrom, auch wenn dies von BOMMEL: Belgischer Schäferhund. Veteran aus der letzten Entsendung nach Afghanistan.
-SMITH, Jill und Jack: Eltern]]></description><link>agenten/smith,-bimmel-alias-"foundry"-(jonas).html</link><guid isPermaLink="false">Agenten/Smith, Bimmel alias "Foundry" (Jonas).md</guid><pubDate>Tue, 23 Jun 2026 22:40:36 GMT</pubDate><enclosure url="media/agent_foundry.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="media/agent_foundry.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Drops, Steve alias "Fire" (Mathias)]]></title><description><![CDATA[<img alt="Agent_Fire.png" src="media/agent_fire.png" target="_self">KLASSIFIKATION: GEHEIM//NFDSUBJEKT: DROPS, Steve alias "FIRE"
-GEB: 13.4.1983
-HAUPT OPERATIONSRAUM: New York City, NY
-STATUS: AKTIV, FBI
-MUTTER: Marie Drops
-VATER: Unbekannt
-SCHWESTER: Miranda Drops NOTIZEN:Körperlich eingeschränkt durch Skoliose und Lebensmittelunverträglichkeiten (Laktose). Außerordentlich intelligent. Stark ausgeprägte Stressresistent. Doktor der Computerwissenschaften (Schwerpunkt Microcontroller), Master of Arts der Rechtswissenschaften, Master of Arts der Betriebswirtschaftslehre. Experte in Überwachungstechnik. Spricht Mandarin Level B2Ausgeprägtes Bedürfnis, Menschen in Not zu Helfen. Starker Familiensinn. ADHSSMIRGLE: Schnappschildkröte, zu der der Agent eine enge emotionale Bindung aufgebaut hat. Patentier im Tierheim Queens (NYC)
-DROPS, Miranda: Schwester
-DROPS, Marie: Mutter]]></description><link>agenten/drops,-steve-alias-"fire"-(mathias).html</link><guid isPermaLink="false">Agenten/Drops, Steve alias "Fire" (Mathias).md</guid><pubDate>Tue, 23 Jun 2026 22:40:26 GMT</pubDate><enclosure url="media/agent_fire.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="media/agent_fire.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Ballentine, George T. alias "Force" (Nils)]]></title><description><![CDATA[<img alt="Agent_Force.png" src="media/agent_force.png" target="_self">KLASSIFIKATION: GEHEIM//NFDSUBJEKT: BALLENTINE, George T. alias "FORCE"
-GEB: 13.4.1983
-HAUPT OPERATIONSRAUM: Austin, TX
-STATUS: AKTIV, Texas Highway Patrol
-MUTTER: Unbekannt
-VATER: Unbekannt
-(ANDERE ANGEHÖRIGE): UnbekanntNOTIZEN:]]></description><link>agenten/ballentine,-george-t.-alias-"force"-(nils).html</link><guid isPermaLink="false">Agenten/Ballentine, George T. alias "Force" (Nils).md</guid><pubDate>Tue, 23 Jun 2026 22:40:18 GMT</pubDate><enclosure url="media/agent_force.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="media/agent_force.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Jagoda, Ekatherina aka "Farsight" (Kathi)]]></title><description><![CDATA[<img alt="Agent_Farsight.png" src="media/agent_farsight.png" target="_self">KLASSIFIKATION: GEHEIM//NFDSUBJEKT: JAGODA, Ekatherina alias "FARSIGHT"
-GEB: 13.4.1983
-HAUPT OPERATIONSRAUM: New York City, NY
-STATUS: AKTIV, FBI
-MUTTER: Unbekannt
-VATER: Unbekannt
-(ANDERE ANGEHÖRIGE): Jakob Jagoda (Bruder)NOTIZEN:Medizinstudium, sehr stark ausgeprägte analytische Fähigkeiten. Doktor der Psychiatrie, Master of Science der Biologie, Facharzt der allg. Medizin.Stark ausgeprägter Lern- und Forschungsdrang, HelferkomplexJAGODA, Jakob: Vater
-MILLER, George: Doktorvater]]></description><link>agenten/jagoda,-ekatherina-aka-"farsight"-(kathi).html</link><guid isPermaLink="false">Agenten/Jagoda, Ekatherina aka "Farsight" (Kathi).md</guid><pubDate>Wed, 24 Jun 2026 17:16:07 GMT</pubDate><enclosure url="media/agent_farsight.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="media/agent_farsight.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Whatson, Priscilla aka "Figma" (Maja)]]></title><description><![CDATA[<img alt="Agent_Figma.png" src="media/agent_figma.png" target="_self">KLASSIFIKATION: GEHEIM//NFDSUBJEKT: WHATSON, Priscilla alias "FIGMA"
-GEB: 13.4.1983
-HAUPT OPERATIONSRAUM: New York City, NY
-STATUS: AKTIV, NY General Hospital (NYC)
-MUTTER: Unbekannt
-VATER: Unbekannt
-(ANDERE ANGEHÖRIGE): Carl Whatson (Ex-Ehemann)NOTIZEN:Fotografisches Gedächtnis, außerordentlich willensstark. Doktor der Psychologie, Master of Science der Biologie, Facharzt der allg. Medizin. Ausgeprägte MenschenkenntnisStark ausgeprägte Eigenständigkeit und Bedürfnis nach Unabhängigkeit, zielstrebig und karrierebewusst.
-Traumata durch frühen Tod der Eltern und später Entführungsfall sind unzureichend aufgearbeitet. Leidet an Schlafstörungen. Ist Entzug von Handlungsfähigkeit gegenüber außerordentlich resistent.WHATSON, Carl: Ehemann (geschieden)
-KURT, Eva: befreundete Ärztin im NY General Hospital
-PETERSON, Pam: ehem. Patientin]]></description><link>agenten/whatson,-priscilla-aka-"figma"-(maja).html</link><guid isPermaLink="false">Agenten/Whatson, Priscilla aka "Figma" (Maja).md</guid><pubDate>Tue, 23 Jun 2026 22:40:47 GMT</pubDate><enclosure url="media/agent_figma.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="media/agent_figma.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Smith, Bimmel aka "Foundry" (Jonas)]]></title><description><![CDATA[<img alt="Agent_Foundry.png" src="media/agent_foundry.png" target="_self">KLASSIFIKATION: GEHEIM//NFDSUBJEKT: SMITH, Bimmel alias "FOUNDRY"
-GEB: 13.4.1983
-HAUPT OPERATIONSRAUM: New York City (NY)
-STATUS: AKTIV, DOD
-MUTTER: Jill Smith
-VATER: Jack SmithNOTIZEN:Körperlich fit, stark ausgeprägte analytische Fähigkeiten. Ausbildung zum Kommandosoldat SFOD-D, Experte in Nahkampf, Schusswaffen, schwere Waffen, Überwachung, Sprengmitteleinsatz. Einzelkämpferausbildung, Guerillataktiken.Verminderte Fähigkeit zu Empathie. Neigt zu Helfersyndrom, auch wenn dies von BOMMEL: Belgischer Schäferhund. Veteran aus der letzten Entsendung nach Afghanistan.
-SMITH, Jill und Jack: Eltern]]></description><link>agenten/smith,-bimmel-aka-"foundry"-(jonas).html</link><guid isPermaLink="false">Agenten/Smith, Bimmel aka "Foundry" (Jonas).md</guid><pubDate>Tue, 23 Jun 2026 22:40:36 GMT</pubDate><enclosure url="media/agent_foundry.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="media/agent_foundry.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Drops, Steve aka "Fire" (Mathias)]]></title><description><![CDATA[<img alt="Agent_Fire.png" src="media/agent_fire.png" target="_self">KLASSIFIKATION: GEHEIM//NFDSUBJEKT: DROPS, Steve alias "FIRE"
-GEB: 13.4.1983
-HAUPT OPERATIONSRAUM: New York City, NY
-STATUS: AKTIV, FBI
-MUTTER: Marie Drops
-VATER: Unbekannt
-SCHWESTER: Miranda Drops NOTIZEN:Körperlich eingeschränkt durch Skoliose und Lebensmittelunverträglichkeiten (Laktose). Außerordentlich intelligent. Stark ausgeprägte Stressresistent. Doktor der Computerwissenschaften (Schwerpunkt Microcontroller), Master of Arts der Rechtswissenschaften, Master of Arts der Betriebswirtschaftslehre. Experte in Überwachungstechnik. Spricht Mandarin Level B2Ausgeprägtes Bedürfnis, Menschen in Not zu Helfen. Starker Familiensinn. ADHSSMIRGLE: Schnappschildkröte, zu der der Agent eine enge emotionale Bindung aufgebaut hat. Patentier im Tierheim Queens (NYC)
-DROPS, Miranda: Schwester
-DROPS, Marie: Mutter]]></description><link>agenten/drops,-steve-aka-"fire"-(mathias).html</link><guid isPermaLink="false">Agenten/Drops, Steve aka "Fire" (Mathias).md</guid><pubDate>Tue, 23 Jun 2026 22:40:26 GMT</pubDate><enclosure url="media/agent_fire.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="media/agent_fire.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Ballentine, George T. aka "Force" (Nils)]]></title><description><![CDATA[<img alt="Agent_Force.png" src="media/agent_force.png" target="_self">KLASSIFIKATION: GEHEIM//NFDSUBJEKT: BALLENTINE, George T. alias "FORCE"
-GEB: 13.4.1983
-HAUPT OPERATIONSRAUM: Austin, TX
-STATUS: AKTIV, Texas Highway Patrol
-MUTTER: Unbekannt
-VATER: Unbekannt
-(ANDERE ANGEHÖRIGE): UnbekanntNOTIZEN:]]></description><link>agenten/ballentine,-george-t.-aka-"force"-(nils).html</link><guid isPermaLink="false">Agenten/Ballentine, George T. aka "Force" (Nils).md</guid><pubDate>Tue, 23 Jun 2026 22:40:18 GMT</pubDate><enclosure url="media/agent_force.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="media/agent_force.png"&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+MILLER, George: Doktorvater]]></description><link>agenten/jagoda,-ekatherina-alias-"farsight"-(kathi).html</link><guid isPermaLink="false">Agenten/Jagoda, Ekatherina alias "Farsight" (Kathi).md</guid><pubDate>Wed, 24 Jun 2026 22:07:06 GMT</pubDate><enclosure url="media/agent_farsight.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="media/agent_farsight.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Willkommen zur Einsatzleitung, Agent Neon]]></title><description><![CDATA[Dies ist ihre geheime Datenbank. Nutzen Sie sie, um ihre zukünftigen Operationen zu planen und zu verwalten.Als erstes sollten Sie Akten anlegen für
+Operationen
+Agenten
+Sessionnotizen
+Eine Akte für wichtige Termine ist empfohlen.]]></description><link>willkommen-zur-einsatzleitung,-agent-neon.html</link><guid isPermaLink="false">Willkommen zur Einsatzleitung, Agent Neon.md</guid><pubDate>Wed, 24 Jun 2026 20:45:30 GMT</pubDate></item></channel></rss>
